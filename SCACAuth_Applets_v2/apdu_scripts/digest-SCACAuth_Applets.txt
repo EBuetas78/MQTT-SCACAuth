@@ -1,0 +1,12 @@
+Digest for uned/ebs/scacauth/javacard/Method.cap		[SHA-256: b33b65039eb031a6f8b8790d5870840f99a5b1b8d9c3d6feffb73bbf10e3f9bc]
+Digest for uned/ebs/scacauth/javacard/Debug.cap		[SHA-256: 370035c15f721e9e67860f9d15958130bec97f5b09fa079730c62e7baac31909]
+Digest for uned/ebs/scacauth/javacard/Import.cap		[SHA-256: c263a71a519e3fee9917fad546d8065faf376a98e688cbe1116544529e4889f5]
+Digest for uned/ebs/scacauth/javacard/Applet.cap		[SHA-256: 8b6ffd01731a1f8fef3c1a34e417475b8cb43554388bf6ef021869c9bfe00f47]
+Digest for uned/ebs/scacauth/javacard/Header.cap		[SHA-256: c6a3aa8aa6b155b477e649198bd56939a8d9aadf96f685cb7a1aee3d983e8336]
+Digest for uned/ebs/scacauth/javacard/Descriptor.cap		[SHA-256: 797a546f2b8dac91b6719a57b5e4366ece6aba773e34f5eeb1cca160dd2d4a7e]
+Digest for uned/ebs/scacauth/javacard/RefLocation.cap		[SHA-256: dfb9a885f621f5880d51df3dce47e24f53629cc44af933777b619ebe2a07b22e]
+Digest for uned/ebs/scacauth/javacard/Directory.cap		[SHA-256: b689b00748880dba88bef5457d13534b3e948b9b75c1cf00b0004844cb63d47b]
+Digest for uned/ebs/scacauth/javacard/ConstantPool.cap		[SHA-256: ab49800e3a2c6eb236d631968e687422901f08b7c96dba39664251d36071cd33]
+Digest for uned/ebs/scacauth/javacard/Class.cap		[SHA-256: 69e33bac489d0860fba22542b0fb9333d08962adc476a2625f3599dd7bfa16f7]
+Digest for uned/ebs/scacauth/javacard/StaticField.cap		[SHA-256: 5863e9740af5fb905922380b2aa88309a16a285dd3412417ae8af941327901ee]
+Verification completed with 0 warnings and 0 errors.
