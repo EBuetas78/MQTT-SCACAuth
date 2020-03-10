@@ -12,3 +12,10 @@ Notation:
 
 ![notation](img/notation.jpg)
 
+Authentication:
+
+![authentication](img/auth.png)
+
+Publish:
+
+![publish](img/pub_v3.png)
