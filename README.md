@@ -8,3 +8,7 @@ Very often, the constrained resources of IoT devices prevent the use of secure a
 In this repository, we propose making a security schema for MQTT protocol by using Cryptographic Smart Cards, for both challenges, the authentication schema and being able to trust in the confidentiality and integrity of data. We carry out this security schema without modifying some of the standard messages of the protocol. We present a time study with an implementation model using JavaCard.  
 
 
+Notation:
+
+![notation](img/notation.jpg)
+
