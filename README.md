@@ -18,4 +18,4 @@ Authentication:
 
 Publish:
 
-![publish](img/pub_v3.png)
+![publish](img/Pub_v3.png)
