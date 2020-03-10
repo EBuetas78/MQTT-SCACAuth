@@ -24,7 +24,7 @@ Subscribtion:
 
 ![subscription](img/Sub_v3.png)
 
-SCACAuth_Applets_v2 folder contains the eclipse project for create the applet for JavaCard 3.0.4 used for executing all cryptographic functions necessary to achieve the authentication and encryption method proposed. Is necessary install javacard pluging to complile this project in eclipse. [plugin eclipse javacard](https://docs.oracle.com/javacard/3.0.5/guide/eclipse-java-card-plug.htm#JCUGC126).
+SCACAuth_Applets_v2 folder contains the eclipse project for create the applet for JavaCard 3.0.4 used for executing all cryptographic functions necessary to achieve the authentication and encryption method proposed. Is necessary install javacard pluging to complile this project in eclipse. [(plugin eclipse javacard)](https://docs.oracle.com/javacard/3.0.5/guide/eclipse-java-card-plug.htm#JCUGC126).
 
 SCACAuth_com_v2 folder contains the netbeans 8.2 project for test all functions created in the JavaCard with the SCACAuth Applet. 
 
