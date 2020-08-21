@@ -460,7 +460,7 @@ System.out.println(" M Persistent: "+memoria);*/
                     salida_encriptada[i]=salida[posicion_salida];
                     posicion_salida++;
                 }
-                salida_desencriptada=cryptclass.desencriptar(salida_encriptada);
+                salida_desencriptada=cryptclass.desencriptar_aes(salida_encriptada,RNsn);
                 posicion_salida=0;
                 //comparamos el UID
                 for (int i=0;i<SCACAuth_Messages.LONG_UID;i++){
