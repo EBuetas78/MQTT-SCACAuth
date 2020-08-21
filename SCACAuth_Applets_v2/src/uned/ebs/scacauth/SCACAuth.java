@@ -778,9 +778,10 @@ public class SCACAuth extends Applet  implements ExtendedLength{
 	    		 }*/
 	    		 longitudpar_crypt=(short)(longitudpar_crypt+(LONG_BLOCK_AES-resto));
 	    	 }
-         	claveAES.setKey(RNpn, (short)0);
+         	claveAES.setKey(RNsn, (short)0);
 	    	cipher_aes.init(claveAES, Cipher.MODE_ENCRYPT);
-	    	sal_crypt=encrypt_broker.crypt(par_crypt,longitudpar_crypt);//(short)(LONG_UID+2*LONG_RN));
+	    	//sal_crypt=encrypt_broker.crypt(par_crypt,longitudpar_crypt);//(short)(LONG_UID+2*LONG_RN));
+	    	sal_crypt=encrypt_aes.crypt(par_crypt,(short)longitudpar_crypt);
 	    	short toSend = (short) ((sal_crypt[0]*0x100)+sal_crypt[1]+2); //el mensaje mas su longitud (en dos bytes) 
 	    	posicionSalida=0;
 	    	Util.arrayCopyNonAtomic(sal_crypt, (short)0x00, par_crypt,posicionSalida, toSend);
